@@ -1,3 +1,11 @@
-Hello World!!
+Hello World!!!!!!!!
 
-We Here
+So we can upload eclipse projects,
+without the need for direct connection in eclipse.
+
+Man lack of knoweldge is Shitty.
+
+So confirmed we can utilize git to upload projects,
+Without going through the stress of Eclipse.
+
+Damn😭😭😭.
